@@ -1,1 +1,2 @@
-My first project this is my first Github project.
+My first project this is my first GitHub project.
+I am learning GitHub. This is my first repository.
